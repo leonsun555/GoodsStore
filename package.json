@@ -35,7 +35,7 @@
     "@types/jquery": "^3.3.29",
     "@vue/cli-plugin-babel": "^3.4.0",
     "@vue/cli-plugin-eslint": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-plugin-component": "^1.1.1",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
